@@ -1,5 +1,5 @@
 # Autoasker
-A python file that takes a screenshot of the screen and parses the data with tesseract (optical character recognition engine). Then it copy and paste this data to chatgpt to take the answers.
+A python file that takes a screenshot of the screen and parses the data with tesseract (optical character recognition engine). It then copies and pastes this data into chatgpt to get the responses.
 
 After taking the answers it gives the user a popup massage with the context of answer
 
